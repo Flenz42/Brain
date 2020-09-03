@@ -2,5 +2,6 @@
 "name": "Cardano Digital Brain Power",
 "description": "Cardano Digital Brain Power – your 24/7 Staking Pool, reality in a world of pure imagination. Technological innovation bringing you Trust, Confidence and Security. Join us, power your BRAIN",
 "ticker": "BRAIN",
-"homepage": "https://github.com/Flenz42/Brain"
+"homepage": "https://cardanobrainpower.com",
+"extended": "https://github.com/Flenz42/Brain/blob/master/adapools-extended.json"
 }
