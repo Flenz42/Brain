@@ -1,0 +1,33 @@
+// 20200903075359
+// https://a.adapools.org/extended-example
+
+{
+  "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+  "info": {
+    "url_png_icon_64x64": "http(s) url to pool icon",
+    "url_png_logo": "http(s) url to pool logo",
+    "location": "Düsseldorf, Germany",
+    "social": {
+      "twitter_handle": "CardanoBrain",
+      "telegram_handle": "",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    },
+    "about": {
+      "me": "...",
+      "server": "..."
+    }
+  },
+  "my-pool-ids": {
+    "0": "90caf0211fec868e9c295857ace58b184d314e564790c18279bef550"
+  },
+  "when-satured-then-recommend": {
+    "0": "90caf0211fec868e9c295857ace58b184d314e564790c18279bef550"
+  },
+  "telegram-admin-handle": {
+    "0": ""
+  }
+}
