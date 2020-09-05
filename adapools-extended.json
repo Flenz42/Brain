@@ -1,5 +1,4 @@
 {
-  "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
   "info": {
     "location": "Düsseldorf, Germany",
     "social": {
